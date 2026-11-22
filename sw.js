@@ -1,7 +1,7 @@
 /* 尋道 service worker: precache everything listed in precache.json; serve offline.
    tools/build.py rewrites VERSION on every build, so each new build changes this file's bytes
    and the browser installs the new worker (and with it the new content). */
-const VERSION = '8943a2dff0ed';
+const VERSION = '85b741946d47';
 const CACHE = 'xundao-' + VERSION;
 
 self.addEventListener('install', (event) => {

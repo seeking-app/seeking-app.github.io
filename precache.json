@@ -1,5 +1,5 @@
 {
-"version": "8943a2dff0ed",
+"version": "85b741946d47",
 "files": [
 "./",
 "app.css",
@@ -611,8 +611,11 @@
 "fonts/cormorant-500i.woff2",
 "fonts/cormorant-600.woff2",
 "icons/apple-touch-icon.png",
+"icons/favicon.ico",
+"icons/favicon.svg",
 "icons/icon-192.png",
 "icons/icon-512.png",
+"icons/icon-maskable-192.png",
 "icons/icon-maskable-512.png",
 "index.html",
 "manifest.webmanifest"
